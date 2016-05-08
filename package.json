@@ -1,0 +1,18 @@
+{
+  "name": "@iuorasrazvan/ircnpm4",
+  "version": "1.0.3",
+  "main": "index.js",
+  "dependencies": {
+    "raznpm1": "^3.0.0"
+  },
+  "devDependencies": {
+    "ircnpm3": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iuoras Razvan <iuorasrazvan2003@yahoo.com> (https://github.com/iuorasrazvan)",
+  "license": "ISC",
+  "description": ""
+}
