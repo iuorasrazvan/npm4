@@ -1,6 +1,6 @@
 {
   "name": "@iuorasrazvan/ircnpm4",
-  "version": "1.0.3",
+  "version": "2.1.2",
   "main": "index.js",
   "dependencies": {
     "raznpm1": "^3.0.0"
